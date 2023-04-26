@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.AssemblyInfo.cs
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Maphuong\Maphuong\bin\Debug\net7.0\Maphuong.exe
+C:\Users\PC\source\repos\Maphuong\Maphuong\bin\Debug\net7.0\Maphuong.deps.json
+C:\Users\PC\source\repos\Maphuong\Maphuong\bin\Debug\net7.0\Maphuong.runtimeconfig.json
+C:\Users\PC\source\repos\Maphuong\Maphuong\bin\Debug\net7.0\Maphuong.dll
+C:\Users\PC\source\repos\Maphuong\Maphuong\bin\Debug\net7.0\Maphuong.pdb
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.dll
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\refint\Maphuong.dll
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.pdb
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\Maphuong.genruntimeconfig.cache
+C:\Users\PC\source\repos\Maphuong\Maphuong\obj\Debug\net7.0\ref\Maphuong.dll
